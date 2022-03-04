@@ -1,5 +1,5 @@
 {
-  "name": "react-dates",
+  "name": "@kontentino/react-dates",
   "version": "22.0.0",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
@@ -41,12 +41,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-dates/react-dates.git"
+    "url": "git+https://github.com/kontentino/react-dates.git"
   },
   "author": "Maja Wichrowska <maja.wichrowska@airbnb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-dates/react-dates/issues"
+    "url": "https://github.com/kontentino/react-dates/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "homepage": "https://github.com/react-dates/react-dates#readme",
   "devDependencies": {
